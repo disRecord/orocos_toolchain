@@ -8,21 +8,21 @@
 	branch = toolchain-2.9
 [submodule "orogen"]
 	path = orogen
-	url = ../orogen.git
+	url = git@github.com:orocos-toolchain/orogen.git
 	branch = toolchain-2.9
 [submodule "typelib"]
 	path = typelib
-	url = ../typelib.git
+	url = git@github.com:orocos-toolchain/typelib.git
 	branch = toolchain-2.9
 [submodule "utilrb"]
 	path = utilrb
-	url = ../utilrb.git
+	url = git@github.com:orocos-toolchain/utilrb.git
 	branch = toolchain-2.9
 [submodule "log4cpp"]
 	path = log4cpp
-	url = ../log4cpp.git
+	url = git@github.com:orocos-toolchain/log4cpp.git
 	branch = toolchain-2.9
 [submodule "rtt_typelib"]
 	path = rtt_typelib
-	url = ../rtt_typelib.git
+	url = git@github.com:orocos-toolchain/rtt_typelib.git
 	branch = toolchain-2.9
